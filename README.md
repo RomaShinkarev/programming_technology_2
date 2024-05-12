@@ -40,6 +40,13 @@ mvn test
 
 ![alt text](https://github.com/RomaShinkarev/programming_technology_2/blob/main/speed_test.png)
 
+## Интеграция с Telegram
+
+При каждом коммиите тесты запускаются автоматически, результат приходит в специально созданный чат в Telegram:
+
+![image](https://github.com/RomaShinkarev/programming_technology_2/assets/85445712/f46d2d17-bbcd-4f06-acd2-159c133e60d9)
+
+
 ## Баллы
 В соответствии с требованиями задачи, баллы распределяются следующим образом:
 
