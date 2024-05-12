@@ -34,6 +34,8 @@ mvn test
 
 ## График производительности
 
+Ниже представлен график зависимости времени рабоыт функции умножения в программе от кол-ва входных данных.
+
 ![alt text](https://github.com/RomaShinkarev/programming_technology_2/blob/main/speed_test.png)
 
 ## Баллы
