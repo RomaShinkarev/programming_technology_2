@@ -32,4 +32,4 @@ jobs:
         to: ${{ secrets.TELEGRAM_CHAT_ID }}
         token: ${{ secrets.TELEGRAM_TOKEN }}
         message: |
-          Результаты ${{ job.status == 'success' && 'Все ОК' || 'Не все ОК' }}.
+          Результат: ${{ job.status == 'success' && 'Все ОК' || 'Не все ОК' }}.
