@@ -34,7 +34,7 @@ mvn test
 
 ## График производительности
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/RomaShinkarev/programming_technology_2/blob/main/speed_test.png)
 
 ## Баллы
 В соответствии с требованиями задачи, баллы распределяются следующим образом:
